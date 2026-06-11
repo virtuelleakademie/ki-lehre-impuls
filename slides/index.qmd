@@ -49,7 +49,7 @@ Praktikum ist eine Sondersituation: Es geht sowohl um Produktion als auch um Ler
 
 Von Produktion wissen wir... 
 
-Wie ist da mit Lernen?
+Wie ist das mit Lernen?
 
 T: Muss kurz ausholen... ;-)
 :::
@@ -1062,5 +1062,34 @@ Nach einer Stunde hat er mit Hilfe von KI einen Flyer erstellt. Der Flyer ist in
 ::: {style="position: absolute; bottom: 0; right: 0;"}
 [virtuelleakademie.ch](https://virtuelleakademie.ch/)
 :::
+
+## Diskussion
+
+Mögliche Fragen als Einstieg:
+
+<br>
+
+::: {style="font-size: 1.05em; max-width: 90%; margin: 0 auto; line-height: 2.2; color: #6E6560;"}
+
+- Wo in deinem Kurs nutzen Studierende KI als Abkürzung, und was geht dabei verloren?
+
+- Welche deiner Aufgaben könnten mit besserem Scaffolding wirksamer werden?
+
+- Woher weisst du, was deine Studierenden bereits können?
+
+- Wie könnte ein KI-Tool aussehen, das auf dein Fach zugeschnitten ist?
+
+:::
+
+::: {.notes}
+"Jetzt interessiert mich eure Perspektive. Ich habe ein paar Fragen vorbereitet, aber wir können auch ganz offen diskutieren."
+
+- Eigene Erfahrung mit KI-Nutzung
+- Aufgabendesign (auch ohne KI)
+- Diagnostik (die CLT-Kernfrage)
+- Ausblick auf fachspezifische Tools
+:::
+
+
 
 ## Bibliographie
