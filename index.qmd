@@ -18,6 +18,9 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/virtuelleakademie/ki-lehre-impuls/
+    - icon: archive
+      text: SWITCH OER (DOI)
+      href: https://doi.org/10.60877/z2pq-qh10
 ---
 
 ## Präsentation
@@ -48,3 +51,13 @@ Aussderdem bieten wir ein [Zertifikat (7 ECTS)](https://www.bfh.ch/de/weiterbild
 [Dr. Raphael Schween](mailto:raphael.schween@bfh.ch) ist Wissenschaftler mit Schwerpunkten in (Bewegungs-)Lernen und kognitiver Modellierung und Experte für KI an der [Virtuellen Akademie](https://virtuelleakademie.ch/) der Berner Fachhochschule.
  
 Sie erforschen, wie künstliche Intelligenz in Bildungssystemen wirkungsvoll eingesetzt werden kann.
+
+## Lizenz und Wiederverwendung
+
+Dieses Material ist ein Open Educational Resource (OER) und steht unter der Lizenz [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.de) [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png){fig-alt="Creative Commons Namensnennung 4.0 International" style="vertical-align:middle;"}](https://creativecommons.org/licenses/by/4.0/deed.de). Du darfst es frei nutzen, anpassen und weiterverbreiten, solange du die Quelle nennst.
+
+Die zitierfähige Version mit DOI findest du im [SWITCH OER Repository](https://doi.org/10.60877/z2pq-qh10).
+
+### Empfohlene Zitation
+
+Ellis, A. & Schween, R. (2026). KI in der Lehre: Impuls. Virtuelle Akademie, Berner Fachhochschule. https://doi.org/10.60877/z2pq-qh10
