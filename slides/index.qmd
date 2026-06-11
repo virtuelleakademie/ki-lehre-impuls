@@ -1,7 +1,7 @@
 ---
 title: "KI in der (Fach-)Hochschullehre"
 subtitle: "Ein Denkansatz aus kognitionspsychologischer Perspektive"
-date: "29 April, 2026"
+date: "11 June, 2026"
 bibliography:
   - ../bibliography.bib
   - ../missing-refs.bib
